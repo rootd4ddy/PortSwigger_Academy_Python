@@ -1,7 +1,7 @@
 import requests
 import sys
 
-#The homepage has 12 categories wrapped in <h3> tags in the response body. 
+#The homepage has 12 products wrapped in <h3> tags in the response body. 
 #If we count more that 12 <h3> tags, it means we've successfully displayed hidden products. 
 
 # declaring the url variable
